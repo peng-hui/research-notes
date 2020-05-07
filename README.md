@@ -10,7 +10,7 @@ I am currently working on web security (more on server-side). This is a collecti
     - New concept of second-order vulnerabilities: First store malicious data to database, and then launch attacks by database queries.
 - Code Reuse Attacks in PHP: Automated POP Chain Generation (CCS'2014) [[paper]](https://dl.acm.org/doi/10.1145/2660267.2660363) [[code]](https://github.com/robocoder/rips-scanner)
     - Detect code reuse attacks in PHP (PHP Object Inject)
-- FUSE: Finding File Upload Bugs via Penetration Testing (NDSS'2020) [[paper]](https://www.ndss-symposium.org/ndss-paper/fuse-finding-file-upload-bugs-via-penetration-testing/)
+- FUSE: Finding File Upload Bugs via Penetration Testing (NDSS'2020) [[paper]](https://www.ndss-symposium.org/ndss-paper/fuse-finding-file-upload-bugs-via-penetration-testing/) [[code]](https://github.com/WSP-LAB/FUSE)
     - Some vulnerable web applications allow uploading files, which can be executable code files.
     - Detecting new types of bugs that haven't been studied before. 
 
