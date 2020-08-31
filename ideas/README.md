@@ -59,5 +59,5 @@ while(false != ($entry = readdir($handler))) # is right
 - Data flow fuzzing. Tracking taint in the process in fuzzing.
 
 - Maintain internal states for fuzzing?
-    - Performance. It is a hard question. It is imfeasible to monitor all internal states and thoroughly study and fuzz. How to do it selectively is a question.
+    - Performance. It is a hard question. It is infeasible to monitor all internal states and thoroughly study and fuzz. How to do it selectively is a question.
     - Doing something like that is a hard question.

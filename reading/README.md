@@ -6,4 +6,5 @@
 - [PeriScope-An Effective Probing and Fuzzing Framework for Hardware-OS boundary (NDSS'19)](periscope.md)
 - [Mobile Private Contact Discovery at Scale (Security'19)](mobile-contact-security19.md)
 - [SoK: Eternal War in Memory (Oakland'13)](memory-safety.md)
+- [MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Security'20)](muzz.md)
 
