@@ -10,3 +10,4 @@
 - [MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Security'20)](muzz.md)
 - [Temporal System Call Specialization for Attack Surface Reduction (Security'20)](temporal-specialization.md)
 - [Everything Old is New Again: Binary Security of WebAssembly Daniel (Security'20)](wasm.md)
+- [Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe’s Transparency and Consent Framework (Oakland'20)](cookie-banners.md)
