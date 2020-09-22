@@ -15,8 +15,7 @@ function \"\_\_cmp()\" and iframe \"\_\_cmpLocator\", can be directly or
 indirectly called, 2) shared cookie, 3) URL-based methods like GET
 parameters and HTTP redirecting mechanisms, and 4) non-standard
 SafeFrames by calling \"\_\_cmp()\". With a thorough legal analysis of
-the GDPR and ePD, the authors propose four potential legal violations:
-1) consent stored before choice, 2) no way to opt out, 3) pre-selected
+the GDPR and ePD, the authors propose four potential legal violations: 1) consent stored before choice, 2) no way to opt out, 3) pre-selected
 choices and 4) no-respect of choice. The authors design and implement a
 Selenium-instrumented Chromium tool, Cookinspect, to detect whether a
 website enables a TCF cookie banner by checking whether \"\_\_cmp()
