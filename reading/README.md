@@ -14,3 +14,4 @@
 - [Understanding, Detecting and Localizing Partial Failures in Large System Software (NSDI'20)](omegagen.md)
 - [Black Widow: Blackbox Data-driven Web Scanning (Oakland'21)](black-window.md)
 - [Symbolic execution with SymCC: Don't interpret, compile! (Security'20)](symcc.md)
+- [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer (Security'20)](montage.md)
