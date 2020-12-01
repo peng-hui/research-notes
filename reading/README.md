@@ -15,3 +15,4 @@
 - [Black Widow: Blackbox Data-driven Web Scanning (Oakland'21)](black-window.md)
 - [Symbolic execution with SymCC: Don't interpret, compile! (Security'20)](symcc.md)
 - [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer (Security'20)](montage.md)
+- [Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers (Oakland'20)](meddling-middlemen.md)
