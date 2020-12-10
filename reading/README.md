@@ -1,4 +1,4 @@
-### Start writing formal paper reviews for execising academic writing (since 2020/08).
+### Our lab @ CUHK holds a weekly based reading group meeting discussing research papers. I maintain the paper reviews here.
 - [Web-security](web-security.md) Brief summary of some web security papers.
 - [Fuzzing](https://github.com/bin2415/fuzzing_paper) Brief summary of some fuzzing tools
 - [(State of) The Art of War: Offensive Techniques in Binary Analysis (Oakland'16)](angr.md)
@@ -13,6 +13,6 @@
 - [Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe’s Transparency and Consent Framework (Oakland'20)](cookie-banners.md)
 - [Understanding, Detecting and Localizing Partial Failures in Large System Software (NSDI'20)](omegagen.md)
 - [Black Widow: Blackbox Data-driven Web Scanning (Oakland'21)](black-window.md)
-- [Symbolic execution with SymCC: Don't interpret, compile! (Security'20)](symcc.md)
+- [Symbolic Execution with SymCC: Don't Interpret, Compile! (Security'20)](symcc.md)
 - [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer (Security'20)](montage.md)
 - [Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers (Oakland'20)](meddling-middlemen.md)
