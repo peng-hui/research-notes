@@ -1,4 +1,4 @@
-### Our lab @ CUHK holds a weekly based reading group meeting discussing research papers. I maintain the paper reviews here.
+### Our lab holds a weekly based reading group meeting discussing research papers. I maintain the paper reviews here.
 - [Web-security](web-security.md) Brief summary of some web security papers.
 - [Fuzzing](https://github.com/bin2415/fuzzing_paper) Brief summary of some fuzzing tools
 - [(State of) The Art of War: Offensive Techniques in Binary Analysis (Oakland'16)](angr.md)
@@ -16,3 +16,5 @@
 - [Symbolic Execution with SymCC: Don't Interpret, Compile! (Security'20)](symcc.md)
 - [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer (Security'20)](montage.md)
 - [Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers (Oakland'20)](meddling-middlemen.md)
+- [OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX (NDSS'20)](obfuscuro.md)
+- [Automatic Hot Patch Generation for Android Kernels Zhengzi (Security'20)](vulmet.md)
