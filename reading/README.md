@@ -19,3 +19,4 @@
 - [OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX (NDSS'20)](obfuscuro.md)
 - [Automatic Hot Patch Generation for Android Kernels Zhengzi (Security'20)](vulmet.md)
 - [Iodine: Fast Dynamic Taint Tracking Using Rollback-free Optimistic Hybrid Analysis](iodine.md)
+- [ParmeSan: Sanitizer-guided Greybox Fuzzing](parmesan.md)
