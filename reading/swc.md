@@ -2,7 +2,7 @@
 Service workers (SWs) in modern browsers provide web applications a set of features (e.g., pre-caching) that have enriched native applications.
 Due to the problematic site isolation mechanisms, such SWs can be abused for history sniffing, i.e., inferring whether a victim has previously visited a particular website or not.
 
-In this paper, the authors first conducted a large-scale measurement towards to usage of SWs in the wild.
+In this paper, the authors first conducted a large-scale measurement towards the usage of SWs in the wild.
 They used Selenium to drive an instrumented Chromium browser to identify whether a website uses SWs and what particular functionalities are being used (if any).
 The measurement demonstrates that 30,229 out of Alexa top 1M websites were using SWs.
 Specifically, 8,559 websites use the caching functionality in their landing page.
