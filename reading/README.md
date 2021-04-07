@@ -23,3 +23,4 @@
 - [Awakening the Web’s Sleeper Agents: Misusing Service Workers for Privacy Leakage Soroush (NDSS'21)](swc.md)
 - [DEEPBINDIFF: Learning Program-Wide Code Representations for Binary Diffing (NDSS'20)](deepbindiff.md)
 - [MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures (Security'20)](mvp.md)
+- [FUSE: Finding File Upload Bugs via Penetration Testing (NDSS'20)](fuse.md)
