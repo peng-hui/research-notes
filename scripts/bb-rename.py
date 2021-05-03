@@ -21,6 +21,6 @@ for i, sid in enumerate(sids):
         if sid in f and not f.endswith('.txt'):
             if not os.path.exists(dirpath):
                 os.mkdir(dirpath)
-            if not (f.endswith('.zip') or f.endswith('.rar')):
+            if not (f.endswith('.zip') or f.endswith('.rar') or f.endswith('.7z')):
                 print(sid)
             shutil.copy(f, os.path.join(dirpath, ''))
