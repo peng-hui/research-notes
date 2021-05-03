@@ -24,3 +24,4 @@
 - [DEEPBINDIFF: Learning Program-Wide Code Representations for Binary Diffing (NDSS'20)](deepbindiff.md)
 - [MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures (Security'20)](mvp.md)
 - [FUSE: Finding File Upload Bugs via Penetration Testing (NDSS'20)](fuse.md)
+- [SmartVerif: Push the Limit of Automation Capability of Verifying Security Protocols by Dynamic Strategies Security'20](smartverif.md)
