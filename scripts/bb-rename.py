@@ -4,8 +4,8 @@ with open('sid.txt', 'r') as input_f:
     sids = input_f.readlines()
 sids = [i.strip() for i in sids]
 
-dst = 'asg3-moss'
-src = 'asg3'
+dst = 'asg2-moss'
+src = 'asg2'
 filepaths = []
 for root, dirs, files in os.walk(src):
     for f in files:
