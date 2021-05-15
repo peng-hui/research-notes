@@ -1,4 +1,4 @@
-### Title: SpecFuzz Bringing Spectre-type vulnerabilities to the surface
+### Title: SpecFuzz: Bringing Spectre-type Vulnerabilities to the Surface
 Speculative execution vulnerabilities (e.g., Spectre) are a microarchitectural attack exploiting the branch speculations in the CPU architectures.
 In the high-performance pipeline design,
 modern CPUs speculatively execute certain following instructions when encountering data or control hazards.
