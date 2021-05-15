@@ -1,4 +1,4 @@
-### Our lab holds a weekly based reading group meeting discussing research papers. I maintain the paper reviews here.
+### I maintain the paper summaries here.
 - [Web-security](web-security.md) Brief summary of some web security papers.
 - [Fuzzing](https://github.com/bin2415/fuzzing_paper) Brief summary of some fuzzing tools
 - [(State of) The Art of War: Offensive Techniques in Binary Analysis (Oakland'16)](angr.md)
@@ -25,3 +25,4 @@
 - [MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures (Security'20)](mvp.md)
 - [FUSE: Finding File Upload Bugs via Penetration Testing (NDSS'20)](fuse.md)
 - [SmartVerif: Push the Limit of Automation Capability of Verifying Security Protocols by Dynamic Strategies Security'20](smartverif.md)
+- [SpecFuzz: Bringing Spectre-type Vulnerabilities to the Surface](specfuzz.md)
