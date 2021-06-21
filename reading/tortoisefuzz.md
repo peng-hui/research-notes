@@ -1,0 +1,8 @@
+### Title: Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization
+
+The state-of-the-art fuzzing uses coverage information to guide fuzzers to explore more code and thus to find more vulnerabilities. Existing solutions treat all CFG edges or basic code blocks equally. Such a design can be defeated by anti-fuzzing techniques. This paper aims to add new metrics to mitigate the counter-measurements of anti-fuzzing techniques. 
+The insight in this paper is the memory operations can be an indicator of memory corruption vulnerabilities. It uses three complementary metrics to capture the potential crashes. 1) At function call level, this work abstracts memory access operations as the function itself and prioritizes inputs that will visit such functions; 2) since loops tend to cause memory errors such as overflow vulnerabilities, this work identifies the back edge of loops and prioritizes them; 3) it also measures the number of memory operations contained in each basic block.
+Equipped with such an idea, the authors design and implement TortoiseFuzz based on AFL. 
+TortoiseFuzz does not rely on taint analysis or symbolic execution. It inserts above coverage accounting scheme inside the queue culling.
+
+In the evaluation, the authors selected 4 gray-box and 2 hybrid fuzzers, and systematically evaluated them on 30 applications. TortoiseFuzz identified 56 vulnerabilities, including 20 zero-days and 15 CVEs. Compared with previous fuzzers, Tortoise Fuzz is more effective. Moreover, TortoiseFuzz has minimal performance overhead such as memory usage. Moreover, TortoiseFuzz could mitigate the counter measurements of anti-fuzzing techniques and show a high robustness.
