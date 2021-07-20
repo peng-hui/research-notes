@@ -1,5 +1,6 @@
 ## I occasionally write some paper summaries.
 ### 2021
+- [Civet: An Efficient Java Partitioning Framework for Hardware Enclaves (Security'20)](civet.md)
 - [Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization (NDSS'20)](tortoisefuzz.md)
 - [ETHBMC: A Bounded Model Checker for Smart Contracts (Security'20)](ethbmc.md)
 - [Automatic Policy Generation for Inter-Service Access Control of Microservices (Security'21)](autoarmor.md)
